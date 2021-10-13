@@ -27,14 +27,14 @@
      background-color: rgb(254,224,144);
    }
    .page{
-     width: 3000px;    
+     width: 850px;    
      background-color: rgb(171,217,233);   
      margin: auto;
      padding: 35px;
      padding-top: 35px;
   }
   .vis-container{
-    width: 2000;
+    width: 1000;
   }
   .description h2, h1{
     margin-top:25px;
