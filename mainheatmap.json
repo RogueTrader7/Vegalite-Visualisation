@@ -7,7 +7,7 @@
   "padding": {"right": 25},
   "background": "#f3fafa",
   "view": {"fill": "#EBF7F7"},
-  "data": {"url": "https://raw.githubusercontent.com/RogueTrader7/Visulaisation2/main/Heatmap.json"},
+  "data": {"url": "https://raw.githubusercontent.com/RogueTrader7/Vegalite-Visualisation/main/Heatmap.json"},
   "params": [
     {
         "name": "Population_Above",
