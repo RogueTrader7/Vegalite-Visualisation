@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width":"1000",
+  "width":"800",
   "height":"550",
   "title": {"text": "Statewise proportion of chronic conditions(2017-18)", "fontSize":60, "color": "gray", "anchor": "start", "font":"Lato",
   "dx":5},
