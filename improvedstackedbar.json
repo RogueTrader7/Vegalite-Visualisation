@@ -99,7 +99,7 @@
         "title": "Health Status"
       },
       "legend":{
-        "labelLimit": 700,
+        "labelLimit": 800,
         "columns":1
     },
        
