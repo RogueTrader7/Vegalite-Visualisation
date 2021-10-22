@@ -48,7 +48,7 @@
   },
 
   "legend":{
-    "labelLimit": 400,
+    "labelLimit": 700,
     "columns":1
 }
 
