@@ -55,7 +55,7 @@
                 "y": {
                     "field": "females",
                     "type": "quantitative",
-                    "labelFont": "Lato", "labelFontSize":10, "titleFont": "Lato", "titleFontSize":10
+                    "labelFont": "Lato", "labelFontSize":10, "titleFont": "Lato", "titleFontSize":20
 
                 },
 
