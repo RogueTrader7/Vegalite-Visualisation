@@ -47,7 +47,7 @@
 
                     "axis": {
                         "title": "Year",
-                        "labelFontSize":10, "titleFont": "Lato", "titleFontSize":10
+                        "labelFontSize":10, "titleFont": "Lato", "titleFontSize":20
                     }
             },
 
