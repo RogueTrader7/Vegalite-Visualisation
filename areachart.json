@@ -2,7 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega/v5.json",
     "title": { "text": "Deaths in Victoria and Australia due to circulatory diseases", "font":"Lato",  "fontSize":18, "color": "gray"},
     "width": 350,
-    "height":150,
+    "height":100,
     "padding": {"right": 10},
     "background": "#f3fafa",
     "view": {"fill": "#f3fafa"},
